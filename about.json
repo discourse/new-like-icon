@@ -1,5 +1,6 @@
 {
   "name": "New Like icon",
   "about_url": "https://github.com/discourse/new-like-icon",
-  "license_url": "https://github.com/discourse/new-like-icon/blob/master/LICENSE"
+  "license_url": "https://github.com/discourse/new-like-icon/blob/master/LICENSE",
+  "component": true
 }
