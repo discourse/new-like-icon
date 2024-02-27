@@ -1,6 +1,6 @@
 {
-  "name": "New Like icon",
+  "name": "Change the Like Icon to +1",
   "component": true,
-  "about_url": "https://github.com/discourse/new-like-icon",
+  "about_url": "https://meta.discourse.org/t/change-the-like-icon-to/87748",
   "license_url": "https://github.com/discourse/new-like-icon/blob/main/LICENSE"
 }
